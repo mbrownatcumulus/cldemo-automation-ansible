@@ -19,6 +19,7 @@
   become_method: sudo
   roles:
     - ifupdown
+    - lldpctl
 - hosts: server02
   user: cumulus
   become: yes
