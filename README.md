@@ -7,7 +7,7 @@ This demo is written for the [cldemo-vagrant](https://github.com/cumulusnetworks
 
 Quickstart: Run the demo
 ------------------------
-(This assumes you are running Ansible 1.9.4 and Vagrant 1.8.4 on your host.)
+(This assumes you are running Ansible 1.9.4 and Vagrant 1.8.1 on your host.)
 
     git clone https://github.com/cumulusnetworks/cldemo-vagrant
     cd cldemo-vagrant
